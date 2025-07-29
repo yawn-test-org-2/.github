@@ -1,0 +1,11 @@
+# workflow-templates/test-template.yml
+name: Minimal Test Template
+description: 'A minimal workflow to test visibility.'
+on:
+  workflow_dispatch:
+
+jobs:
+  test_job:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Test template executed."
