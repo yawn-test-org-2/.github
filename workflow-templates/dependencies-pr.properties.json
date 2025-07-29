@@ -2,6 +2,6 @@
   "name": "Dependencies PR",
   "description": "Dependencies PR workflow template.",
   "categories": [
-      "dependency-management"
+    "dependency-management"
   ]
 }
